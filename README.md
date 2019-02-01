@@ -11,3 +11,9 @@ CNMMA-WI2018:
   year={2018},
   organization={IEEE}
 }
+
+LFCIS-IEEE-Access:
+@article{he2018learning,
+  title={Learning Latent Factors for Community Identification and Summarization},
+  author={He, Tiantian and Hu, Lun and Chan, Keith CC and Hu, Pengwei}
+}
