@@ -1,6 +1,6 @@
 # Manuscripts
 
-This repository contains the drafted version of my manuscripts which have been accepted or published.
+This repository contains the drafted version of my manuscripts which are recently accepted or published.
 
 CNMMA-WI2018:
 @inproceedings{he2018clustering,
