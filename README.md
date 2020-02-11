@@ -2,6 +2,16 @@
 
 This repository contains the drafted version of my manuscripts which are recently accepted or published.
 
+ECDA-WCCI2014
+@inproceedings{he2014evolutionary,
+  title={Evolutionary community detection in social networks},
+  author={He, Tiantian and Chan, Keith CC},
+  booktitle={2014 IEEE Congress on Evolutionary Computation (CEC)},
+  pages={1496--1503},
+  year={2014},
+  organization={IEEE}
+}
+
 CNMMA-WI2018:
 @inproceedings{he2018clustering,
   title={Clustering in Networks with Multi-Modality Attributes},
@@ -16,4 +26,14 @@ LFCIS-IEEE-Access:
 @article{he2018learning,
   title={Learning Latent Factors for Community Identification and Summarization},
   author={He, Tiantian and Hu, Lun and Chan, Keith CC and Hu, Pengwei}
+}
+
+MrSBM-ICTAI2019
+@inproceedings{hemanifold,
+  title={Manifold Regularized Stochastic Block Model},
+  author={He, Tiantian and Bai, Lu and Ong, Yew-Soon}
+  booktitle={2019 IEEE International Conference on Tools with Artificial Intelligence (ICTAI)},
+  pages={800--807},
+  year={2019},
+  organization={IEEE}
 }
