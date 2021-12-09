@@ -49,3 +49,12 @@ MSPANC-Neurocomputing:
   publisher={Elsevier}
 }
 
+FMVFNC-WI/IAT2021
+@inproceedings{yaofuzzy,
+  title={Fuzzy Community Detection with Multi-View Correlated Topics},
+  author={Yao, Lizhong and He, Tiantian}
+  booktitle={2021 IEEE/WIC/ACM International Conference on Web Intelligence},
+  year={2021},
+  organization={ACM}
+}
+
